@@ -1,0 +1,22 @@
+{
+  "name": "userstory",
+  "version": "1.0.0",
+  "description": "this is user Story app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priyam",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.0",
+    "bson": "^0.4.12",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.0.5",
+    "mongoose": "^3.8.35",
+    "morgan": "^1.6.1",
+    "nodemon": "^1.7.1",
+    "socket.io": "^1.3.7"
+  }
+}
